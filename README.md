@@ -25,7 +25,7 @@ GoTasted
 ## Ürün Bilgilendirmesi
 
 ## Ürün Özellikleri
-
+Çevrendeki birçok restoran veya kafeden hangisine gideceğini bilmiyor musun? Kafan mı karıştı? Tarzına göre ilgi çekici bir mekan bulmakta zorlanıyor musun? İşte karşında gotasted. İlgine göre mekanları listeleyip sana sunuyoruz. Ama sakın üzülme, daha farklı ve daha güzel mekanları keşfetme fırsatın da olacak. Üstelik kullanıcılarımızın, yani senin kişisel verilerinin güvenliğini de bu girişimle korumuş olacağız. QR kod okutma devrine artık son. Gittiğin restoranı seçiyorsun ve menüsünü görüyorsun. Hangi yiyecek veya içecek bütçene uygun görüyorsun. Cüzdanını unuttuysan, uygulama üzerinden kolaylıkla ödeme yapabiliyorsun. Unutmadan söyleyeyim, gideceğin restoranın müşteri doluluk oranını da bu girişimden görebilir ve ona göre tercih yapabilirsin. Mağdur durumundan çıkabilirsin. Bizi çevrene tanıtmayı unutma.
 
 ## Hedef Kitle
 
